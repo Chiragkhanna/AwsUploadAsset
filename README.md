@@ -10,5 +10,5 @@ The utility provides you provide multiple options like
 In Sync Assets, it will ask for the the path from where you need to copy the asset to AWS
 and then it will start placing the images/audio to S3 bucket
 
-In irder to delete some asset we can either give the key name (the name assign to every uploaded file)
+In order to delete some asset we can either give the key name (the name assign to every uploaded file)
 or the relative path for deletion
